@@ -139,3 +139,23 @@ Practice insight-driven analysis
 Develop clear data storytelling skills
 
 Simulate real-world analytics reporting for stakeholders
+
+---
+
+## 🚀 Project Purpose
+This project was built as a **portfolio and learning project** to:
+- Strengthen Power BI fundamentals
+- Practice real-world data analysis
+- Improve dashboard storytelling
+- Prepare for more advanced BI projects
+
+---
+
+## 📬 Contact
+**Mustapha Tarfi**  
+📍 Morocco  
+🔗 LinkedIn: *https://www.linkedin.com/in/mustapha-tarfi-1106b5283/*  
+
+---
+
+
