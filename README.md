@@ -9,7 +9,8 @@ The dashboard focuses on converting raw survey data into **clear, business-orien
 
 ## 👀 Dashboard Preview
 
-![Dashboard Preview](Capture d'écran 2026-01-03 132956.png)
+<img width="551" height="313" alt="Capture d&#39;écran 2026-01-03 132956" src="https://github.com/user-attachments/assets/bfe21b85-a8b0-4e91-92bd-0e1923cfe438" />
+
 
 ---
 
